@@ -20,43 +20,34 @@ class TEXT:
 
 ** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** Developer:** {bot_owner}
-
 ** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
 
 ** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
-
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
 """
 
     HELP_USER = """**Follow Below Steps:**
    
-☞︎︎︎ Use /mode command to change upload mode.
+☞︎︎ Use /mode command to change upload mode.
 ☞︎︎︎ Send a photo to set as permanent thumbnail.
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
-
-For source code check about
 """
 
-    START_TEXT = """Hi {user_mention},
+    START_TEXT = """HI {user_mention},👋🏻
 
-I am a telegram renamer with permanent thumbnail.
+I am a telegram renamer with permanent thumbnail.💯
 
-𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
-
-**Maintained By:** {bot_owner}
+𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅p!!!
 """
 
 
     DONATE_USER = """**__Thanks for showing interest in donation.__**
  
 Donate us to keep our services continously alive
-You can send any amount 
-of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
+You can send any amount.
  
 __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** message me @MaxxRiderz"""
+**For Donate:** message me @Vkbotssupportbot"""
