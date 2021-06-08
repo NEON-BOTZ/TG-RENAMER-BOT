@@ -31,9 +31,9 @@ Send the new name when bot ask.
 
     START_TEXT = """**HI {user_mention}!!!**👋🏻
 
-**I am a telegram renamer with permanent thumbnail.💯**
+**I Am A Renamer Bot With Permanent Thumbnail Support.💯**
 
-**𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅p!!!**
+**Click Help For More Details!!!**
 """
 
 
