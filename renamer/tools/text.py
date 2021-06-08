@@ -12,17 +12,13 @@ class TEXT:
     THUMBNAIL_CAPTION = f"{BACKHAND_INDEX_POINTING_UP_LIGHT_SKIN_TONE} Your Permanent thumbnail"
 
 
-    ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
+    ABOUT = """<b>Creator:</b> <a href="https://t.me/VivekTVP">Vivek</a>
+<b>Credits:</b> Dan for his awesome pyrogram library 🔥
+<b>Library:</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.1.13</a>
+<b>Updates:</b> <a href="https://t.me/VkProjects">vk projects</a>
+<b>Server:</b> <a href="https://heroku.com">Heroku</a>
 
-** My Name:** {bot_name}
-    
-** Language:** [Python 3](https://www.python.org/)
-
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
-
-** Channel:** [VK Proejcts](https://t.me/VkProjects)
-
-** Group:** [Vk Support](https://t.me/VKP_BOTS)
+<b><u>NB:</u></b> EveryOne Can Use Me.So Don't Worry🤗
 """
 
     HELP_USER = """**Follow Below Steps:**
