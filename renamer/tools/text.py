@@ -29,11 +29,11 @@ Now send me the Telegram file you want to rename.
 Send the new name when bot ask.
 """
 
-    START_TEXT = """HI {user_mention},👋🏻
+    START_TEXT = """**HI {user_mention}!!!**👋🏻
 
-I am a telegram renamer with permanent thumbnail.💯
+**I am a telegram renamer with permanent thumbnail.💯**
 
-𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅p!!!
+**𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅p!!!**
 """
 
 
